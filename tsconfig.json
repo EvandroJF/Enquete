@@ -14,6 +14,7 @@
     "allowJs": true,
     "incremental": true,
     "strictPropertyInitialization": false,
+    "esModuleInterop": true,
   },
   "exclude": ["node_modules", "build"]
 }
